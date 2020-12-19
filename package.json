@@ -1,0 +1,26 @@
+{
+  "name": "board",
+  "version": "1.0.0",
+  "description": "An HTML5 based operating system designed for large touchscreens and teaching appliances",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "run": "node index.js"
+  },
+  "keywords": [
+    "teaching",
+    "html5",
+    "classroom",
+    "os",
+    "operating",
+    "system"
+  ],
+  "author": "Bluppie05",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2"
+  }
+}
